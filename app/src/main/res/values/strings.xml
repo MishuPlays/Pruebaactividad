@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pruebaactividad</string>
+    <string name="tv1">Elige Una opción</string>
+    <string name="tv2">ListView</string>
+    <string name="btnl">ListView</string>
+    <string name="btng">GridView</string>
+    <string name="btna1">Atrás</string>
+    <string name="btn2">Atrás</string>
+</resources>
