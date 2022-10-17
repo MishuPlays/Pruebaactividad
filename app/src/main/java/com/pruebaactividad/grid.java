@@ -41,7 +41,7 @@ public class grid extends AppCompatActivity {
         grid1.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                Toast.makeText(getApplicationContext(),((TextView)view).getText() + "ha sido clickeado", Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(),((TextView)view).getText() + "ha sido clickeadoo", Toast.LENGTH_SHORT).show();
             }
         });
     }
